@@ -1,4 +1,4 @@
-# coding=gbk
+# -*-coding:gbk-*-
 import torch
 from torch import nn
 
